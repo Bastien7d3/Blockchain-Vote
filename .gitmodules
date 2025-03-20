@@ -1,0 +1,6 @@
+[submodule "Dapp-Front"]
+	path = Dapp-Front
+	url = https://github.com/Bastien7d3/Dapp-Front.git
+[submodule "Dapp-back"]
+	path = Dapp-back
+	url = https://github.com/Bastien7d3/Dapp-back.git
